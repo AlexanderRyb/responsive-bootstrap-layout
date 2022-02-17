@@ -269,7 +269,7 @@ header button {
 }
 
 .block-3 {
-  background-image: url(/images/Bitmap2.png);
+  background-image: url(./images/Bitmap2.png);
   background-blend-mode: darken;
   border-radius: 5px;
   padding: 20px;
