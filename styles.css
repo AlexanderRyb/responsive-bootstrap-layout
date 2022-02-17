@@ -34,7 +34,7 @@ button {
 }
 
 header {
-  background-image: url("/images/Background.png");
+  background-image: url("./images/Background.png");
   padding-bottom: 20%;
   padding-left: 20px;
   padding-right: 20px;
@@ -66,7 +66,7 @@ header button {
 }
 
 .step-1 {
-  background-image: url(/images/Step1.png);
+  background-image: url("./images/Step1.png");
   padding: 3%;
   margin-bottom: 20px;
   display: -webkit-box;
@@ -92,7 +92,7 @@ header button {
 }
 
 .step-2 {
-  background-image: url(/images/step2.png);
+  background-image: url("./images/step2.png");
   padding: 3%;
   margin-bottom: 20px;
   display: -webkit-box;
@@ -118,7 +118,7 @@ header button {
 }
 
 .step-3 {
-  background-image: url(/images/step3.png);
+  background-image: url("./images/step3.png");
   padding: 3%;
   margin-bottom: 20px;
   display: -webkit-box;
@@ -233,7 +233,7 @@ header button {
 }
 
 .block-1 {
-  background-image: url(/images/Bitmap.png);
+  background-image: url("./images/Bitmap.png");
   border-radius: 5px;
   padding: 20px;
   display: -webkit-box;
@@ -250,7 +250,7 @@ header button {
 }
 
 .block-2 {
-  background-image: url(/images/Bitmap1.png);
+  background-image: url("./images/Bitmap1.png");
   background-position: center;
   background-blend-mode: darken;
   border-radius: 5px;
@@ -269,7 +269,7 @@ header button {
 }
 
 .block-3 {
-  background-image: url(./images/Bitmap2.png);
+  background-image: url("./images/Bitmap2.png");
   background-blend-mode: darken;
   border-radius: 5px;
   padding: 20px;
@@ -287,7 +287,7 @@ header button {
 }
 
 .block-4 {
-  background-image: url(/images/Bitmap3.png);
+  background-image: url("./images/Bitmap3.png");
   background-position: center;
   border-radius: 5px;
   padding: 20px;
@@ -305,7 +305,7 @@ header button {
 }
 
 .block-5 {
-  background-image: url(/images/Bitmap4.png);
+  background-image: url("./images/Bitmap4.png");
   border-radius: 5px;
   padding: 20px;
   display: -webkit-box;
@@ -322,7 +322,7 @@ header button {
 }
 
 .block-6 {
-  background-image: url(/images/Bitmap5.png);
+  background-image: url("./images/Bitmap5.png");
   border-radius: 5px;
   padding: 20px;
   display: -webkit-box;
@@ -339,7 +339,7 @@ header button {
 }
 
 .block-7 {
-  background-image: url(/images/Bitmap6.png);
+  background-image: url("./images/Bitmap6.png");
   border-radius: 5px;
   padding: 20px;
   display: -webkit-box;
